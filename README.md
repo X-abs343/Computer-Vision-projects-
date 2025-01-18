@@ -11,4 +11,4 @@ CV4 -> Chain Code
 
 CV5 -> Image Registration with Optimization Technique
 
-CV7 -> 
+CV7 -> 3D Reconstruction from Stereo Images
