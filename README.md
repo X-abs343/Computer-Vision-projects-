@@ -7,4 +7,8 @@ CV2 -> Texture Feature Extraction using GLCM
 
 CV3 -> Basic Morphological Operations
 
+CV4 -> Chain Code
+
 CV5 -> Image Registration with Optimization Technique
+
+CV7 -> 
